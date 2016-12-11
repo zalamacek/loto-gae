@@ -1,0 +1,160 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+    color: #011627;
+}
+
+h1 {
+    padding-top: 35px;
+    padding-bottom: 20px;
+    color: #2ec4b6;
+    font-size: 35px;
+    font-weight: 550;
+}
+
+h2 {
+    color: #011627;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 50px;
+    display: inline-block;
+    margin: 0px;
+}
+
+.caption > span {
+    line-height: 50px;
+    display: inline-block;
+    font-size: 25px;
+    color: #ff3366;
+}
+
+.navbar-default {
+    background-color: #2ec4b6;
+    margin-bottom: 0px;
+}
+
+.nav.navbar-nav.navbar-right a {
+    color: white;
+}
+
+.nav.navbar-nav.navbar-right a:hover {
+    color: #ff3366;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #ff3366;
+}
+
+
+.carousel {
+    background-color: #f6f7f8;
+}
+
+.carousel-control {
+    background-image: none !important;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.thumbnail {
+    border: 2px solid;
+    border-color: #f6f7f8;
+    background-color: #f6f7f8;
+}
+
+#appointment {
+    background-color: #f6f7f8;
+    width: 100%;
+}
+
+#comment {
+    height: 100px;
+}
+
+.table.table-bordered {
+    border: 1px solid;
+    border-color: #ddd;
+}
+
+.table.table-bordered th {
+    background-color: #f6f7f8;
+}
+
+.table.table-bordered td {
+    background-color: white;
+}
+
+.checkbox {
+    font-style: italic;
+}
+
+p {
+    font-style: italic;
+}
+
+.btn-red:hover {
+    background-color: #ff3366;
+    color: white;
+}
+
+.panel-default>.panel-heading {
+    background-color: #f6f7f8;
+}
+
+.panel-body p {
+    font-style: oblique;
+}
+
+footer {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    background-color: #f6f7f8;
+}
+
+footer img {
+    margin: 0 auto;
+    display: block;
+}
+
+h5 {
+    font-size: 15px;
+}
+
+.footer ul {
+  list-style-type: none;
+    padding: 0px;
+    font-size: 12px;
+}
+
+.footer ul a {
+    color: #011627;
+}
+
+.footer .pull-right {
+    z-index: 10;
+    position: relative;
+}
+
+#logo {
+    font-size: 80px;
+    line-height: 131px;
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    color: #ff3366;
+}
+
+.modal-body p {
+    font-style: oblique;
+}
+
+.modal-body img {
+    display: block;
+    margin: 0 auto;
+}
